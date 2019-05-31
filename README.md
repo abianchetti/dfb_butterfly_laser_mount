@@ -1,3 +1,3 @@
-# DFB bUTTERFLY LASER MOUNT
+# DFB Butterfly Laser Mount
 
-### aka
+This mount is for 14 pin lasers (Thorlabs)[www.thorlabs.com]
